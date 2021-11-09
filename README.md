@@ -1,5 +1,5 @@
 # Personnality_Customer
-ce projet consiste L'analyse de la personnalité du client est une analyse détaillée des clients idéaux d'une entreprise.
+ce projet consiste a L'analyse de la personnalité du client est une analyse détaillée des clients idéaux d'une entreprise.
 Il aide une entreprise à mieux comprendre ses clients et leur permet de modifier plus facilement 
 les produits en fonction des besoins, des comportements et des préoccupations spécifiques des différents types de clients
 afin d'avoir cette segementaion de clients  je me suis base sur apprentisage non suprevisee de cluturing.
